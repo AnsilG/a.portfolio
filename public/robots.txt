@@ -1,0 +1,5 @@
+
+User-agent: *
+Allow: /
+
+Sitemap: https://ansilg.github.io/a.portfolio/sitemap.xml
