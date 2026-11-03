@@ -1,0 +1,47 @@
+
+# Ansil G
+
+> Personal portfolio of Ansil G, a Digital Marketer, SEO Specialist and Digital Marketer based in Dubai, UAE.
+
+## About
+
+Ansil G is a digital marketing professional with a background in Computer Science and web development.
+
+His professional interests include search engine optimization, digital marketing, website development, and helping businesses improve their online visibility and generate leads.
+
+## Professional Skills
+
+- Search Engine Optimization (SEO)
+- Keyword Research and Analysis
+- On-Page SEO
+- Technical SEO
+- Off-Page SEO and Link Building
+- Content Planning and Optimization
+- Local SEO
+- Google Analytics 4
+- Google Search Console
+- Google Tag Manager
+- Meta Ads
+- Social Media Marketing
+- MERN Stack Development
+- React.js
+- Node.js
+- JavaScript
+
+## Professional Background
+
+- BSc Computer Science, University of Calicut
+- Digital Marketing training
+- Experience in SEO and digital marketing
+- Experience in manual software testing
+- MERN Stack development internship
+
+## Website
+
+- Portfolio: https://www.ansilg.com/
+- LinkedIn: https://www.linkedin.com/in/ansil-g-878246287/
+- GitHub: https://github.com/AnsilG
+
+## Contact
+
+For professional opportunities, digital marketing projects, SEO services, and web development collaborations, please use the contact details available on the portfolio website.
